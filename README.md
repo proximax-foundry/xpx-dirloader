@@ -4,7 +4,7 @@
 This is basically a CLI tool that creates a NEM Hash of the root directory that can then be loaded from any ProximaX Node.
 
 ### Steps to run
-+ Unpack the dist here ![windows](https://testnet1.gateway.proximax.io/xpxfs/a233dd90f6c0e0c9ffc39eb433040b7827463b01ce87de3202904802a8a19beb/go-xpx-loader.zip)
++ Unpack/Unzip the dist here ![windows](https://testnet1.gateway.proximax.io/xpxfs/722622626df6ce2acf7857473ec1a673216e6c67a39bd07de4f3ffc352ae8fa5)
 + Make sure that all artifacts are on the same directory
 + Open terminal and run `go-xpx-loader.exe daemon`
 + Open another terminal and run `go-xpx-loader.exe add -r <file or dir> ---uploadparam=<jsonconfigpath>`
