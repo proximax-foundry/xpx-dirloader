@@ -8,7 +8,8 @@ This is basically a CLI tool that creates a NEM Hash of the root directory that 
 + Make sure that all artifacts are on the same directory
 + Open terminal and run `go-xpx-loader.exe daemon`
 + Open another terminal and run `go-xpx-loader.exe add -r <file or dir> ---uploadparam=<jsonconfigpath>`
-*note: jsonconfigpath sample - https://github.com/proximax-storage/xpx-dirloader/blob/master/params/uploadPath.json
+
+#### NOTE: jsonconfigpath sample - https://github.com/proximax-storage/xpx-dirloader/blob/master/params/uploadPath.json
 
 You'll get a NEM Hash like the one below
 
